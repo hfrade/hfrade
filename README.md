@@ -12,7 +12,7 @@
 
 <!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandezcamposhugo03@gmail.com)
 
 </div>
@@ -53,56 +53,7 @@ fun_fact: "I run a Minecraft server 🎮⛏️"
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hfrade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hfrade&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6e00&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=58a6ff" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfrade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=hfrade&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hfrade/hfrade/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hfrade/hfrade/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hfrade/hfrade/output/github-snake.svg" />
-</picture>
-
-</div>
-
-> ⚙️ *Para activar la snake animation, necesitas crear un GitHub Action en tu repo. Te puedo ayudar con eso.*
 
 ---
 
@@ -110,12 +61,17 @@ fun_fact: "I run a Minecraft server 🎮⛏️"
 
 <div align="center">
 
-<a href="https://github.com/hfrade/ligabasket">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hfrade&repo=ligabasket&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/hfrade/Hospital_app">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hfrade&repo=Hospital_app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-</a>
+### 🏀 [LigaBasket](https://github.com/hfrade/ligabasket)
+> **Gestión de ligas de baloncesto.** Aplicación Full Stack para administrar equipos, partidos y clasificaciones en tiempo real.
+>
+> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+<br/>
+
+### 🏥 [Hospital App](https://github.com/hfrade/Hospital_app)
+> **Sistema de gestión hospitalaria.** Plataforma para el control de pacientes, citas médicas y personal sanitario.
+>
+> ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </div>
 
