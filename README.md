@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=220&section=header&text=HFrade&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=DAM%20Developer%20🚀%20|%20Java%20•%20JS%20•%20Python%20|%20Frontend%20&%20SQL%20🎨&descSize=18&descColor=58a6ff&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=220&section=header&text=HFrade&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DAM%20Student&descSize=18&descColor=58a6ff&descAlignY=55" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -23,7 +23,7 @@
 
 ```yaml
 name: Hugo
-role: DAM Developer 🚀 | Java • JS • Python | Frontend & SQL 🎨
+role: Full Stack Developer | DAM Student
 location: Spain 🇪🇸
 education: 2º Desarrollo de Aplicaciones Multiplataforma
 currently_learning: [ "Spring Boot", "React Native", "Cloud Deployment" ]
