@@ -36,22 +36,16 @@ fun_fact: "I run a Minecraft server 🎮⛏️"
 
 <div align="center">
 
-### 🔤 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🚀 Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -62,7 +56,7 @@ fun_fact: "I run a Minecraft server 🎮⛏️"
 <div align="center">
 
 ### 🏀 [LigaBasket](https://github.com/hfrade/ligabasket)
-> **Gestión de ligas de baloncesto.** Aplicación Full Stack para administrar equipos, partidos y clasificaciones en tiempo real.
+> **Gestión de ligas de baloncesto.** Aplicación Full Stack para administrar equipos, partidos y clasificaciones.
 >
 > ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -71,7 +65,7 @@ fun_fact: "I run a Minecraft server 🎮⛏️"
 ### 🏥 [Hospital App](https://github.com/hfrade/Hospital_app)
 > **Sistema de gestión hospitalaria.** Plataforma para el control de pacientes, citas médicas y personal sanitario.
 >
-> ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+> ![React](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </div>
 
@@ -79,18 +73,6 @@ fun_fact: "I run a Minecraft server 🎮⛏️"
 
 <div align="center">
 
-## 📫 Let's Connect!
-
-<br/>
-
-**💬 Open to collaborations, projects, and learning together!**
-
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=hfrade&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=120&section=footer" />
+![Visitors](https://komarev.com/ghpvc/?username=hfrade&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
