@@ -73,6 +73,7 @@ fun_fact: "I run a Minecraft server 🎮⛏️"
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=hfrade&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)
+### ⚡ "Code is like humor. When you have to explain it, it's bad."
+*Building the future, one commit at a time.*
 
 </div>
